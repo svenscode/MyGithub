@@ -65,10 +65,12 @@ while input != "q":
         else:
             tax = income * 0.2
 
-    #print("Your tax is € ", tax)
-    #q = input('q')
-    #if input == q:
-    #    break
+    print("Your tax is € ", tax)
+    q = input('q')
+    if input == q:
+        break
+
+# trying to solve github problem
 
 
 
